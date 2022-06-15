@@ -9,7 +9,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/BenjaminLee-boop/minishell?color=3de069">
 
-  <img alt="Norminette" src="https://github.com/BenjaminLee-boop/minishell/actions/workflows/norminette.yml/badge.svg?event=push">
+  <img alt="Norminette" src="https://github.com/BenjaminLee-boop/minishell/actions/workflows/nrom.yml/badge.svg?event=push">
 </p>
 
 
