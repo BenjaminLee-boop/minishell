@@ -1,5 +1,24 @@
 # Conventional Commits 1.0.0
 
+
+So in short the standard commit style i will be using is:
+```
+<type>(<File Or Function>): <Message>
+<type> <Github Issue> // This is optional
+```
+The types that i will be using are:
+```
+feat:     A new feature
+fix:      A bug fix
+docs:     Documentation only changes
+style:    Changes that do not affect the meaning of the code (white-space, for matting, missing semi-colons, etc)
+refactor: A code change that neither fixes a bug nor adds a feature
+perf:     A code change that improves performance
+test:     Adding missing tests or correcting existing tests
+build:    Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+  ci:       Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
+```
+
 ## Summary
 The Conventional Commits specification is a lightweight convention on top of commit messages. It provides an easy set of rules for creating an explicit commit history; which makes it easier to write automated tools on top of. This convention dovetails with SemVer, by describing the features, fixes, and breaking changes made in commit messages
 
