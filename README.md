@@ -17,3 +17,19 @@
   <a href="#functions">Functions</a> &#xa0; | &#xa0;
   <a href="#starting">Usage</a>
 </p>
+
+# About
+- Minishell is a project at school 42.
+
+- The objective of this project is to create a simple shell to learn a lot about processes and file descriptors.
+
+# Links and Resources
+
+# Functions
+Only the following functions are allowed to be used in this project:
+
+
+The folowing functions have either been implemented from scratch or utilzing other projects functions.
+
+
+# Usage
