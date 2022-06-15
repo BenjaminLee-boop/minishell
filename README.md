@@ -1,6 +1,5 @@
 <h1 align="center">Minishell 🐚</h1>
-<h3 align="center">Made by Benjamin Lee (blee) & </h3>
-
+<h4 align="center">Created by Benjamin Lee (blee) & </h4>
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/BenjaminLee-boop/minishell?color=3de069">
 
@@ -16,7 +15,7 @@
   <a href="#about">About</a> &#xa0; | &#xa0;
   <a href="#links">Links</a> &#xa0; | &#xa0;
   <a href="#functions">Functions</a> &#xa0; | &#xa0;
-  <a href="#starting">Usage</a>
+  <a href="#usage">Usage</a>
 </p>
 
 # About
@@ -24,14 +23,25 @@
 
 - The objective of this project is to create a simple shell to learn a lot about processes and file descriptors.
 
-# Links and Resources
-
 # Functions
 Only the following functions are allowed to be used in this project:
 
-
+```
+Table with all the allowed functions to be here...
+```
 
 The folowing functions have either been implemented from scratch or utilzing other projects functions.
-
+```
+Table with functions that we have made of used in the libft projects here. 
+```
 
 # Usage
+
+```bash
+echo "This will walk through the building and running of the application"
+```
+
+# Links
+```
+Any links we've found helpful will be listed here
+```
