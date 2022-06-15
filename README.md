@@ -1,4 +1,5 @@
-<h1 align="center">Minishell 🐚</h1>
+<h1 align="center">Minishell  🐚</h1>
+<h3 align="center">As beautiful as a shell</h3>
 <h4 align="center">Created by Benjamin Lee (blee) & </h4>
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/BenjaminLee-boop/minishell?color=3de069">
