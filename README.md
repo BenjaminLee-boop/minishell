@@ -1,4 +1,5 @@
 <h1 align="center">Minishell 🐚</h1>
+<h3 align="center">Made by Benjamin Lee (blee) & </h3>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/BenjaminLee-boop/minishell?color=3de069">
@@ -27,6 +28,7 @@
 
 # Functions
 Only the following functions are allowed to be used in this project:
+
 
 
 The folowing functions have either been implemented from scratch or utilzing other projects functions.
